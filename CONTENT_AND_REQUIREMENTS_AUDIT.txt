@@ -1,0 +1,115 @@
+PORTFOLIO IMPLEMENTATION & REQUIREMENT CHECKLIST
+===============================================
+
+SOURCE FILES AVAILABLE
+1. Resume PDF
+2. FSD Assignment-1 (CSE-A) PDF
+NOTE: Separate LinkedIn Profile PDF was not present in the uploaded files available to this task.
+
+PERSONAL INFORMATION EXTRACTED
+- Name: RADANDI SHIVANI
+- Phone: +91 8328040630
+- Email: shivani150324@gmail.com
+- Location: Hyderabad, India
+- LinkedIn: https://www.linkedin.com/in/shivani-undefined-2a30473b8
+- GitHub: github.com/shivani150324-collab
+
+OBJECTIVE / SUMMARY
+- Aspiring computer science student with a strong foundation in Java, Python, and data structures.
+- Seeking opportunities in software development to apply problem-solving skills and build efficient, scalable applications.
+
+EDUCATION
+- Bachelor of Engineering
+- Stanley College of Engineering and Technology for Women, Hyderabad
+- August 2023 – Present
+- CGPA: 8.0/10
+- Department/context: Computer Science (from the resume and assignment context)
+
+TECHNICAL / PROGRAMMING SKILLS
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React.js
+- MySQL
+- MongoDB
+- Git
+- GitHub
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+SOFT SKILLS
+- Problem Solving
+- Communication
+- Teamwork
+- Time Management
+- Adaptability
+
+PROJECTS
+1. Gamified Learning App (2026)
+   - Quizzes, badges, rewards, progress tracking
+   - React.js, Node.js, Express.js, MongoDB
+   - Secure user authentication and database integration
+   - Responsive and user-friendly interface
+2. Automatic Fire Extinguisher using Arduino
+   - Sensor-based automatic fire detection and control
+   - Real-time response mechanism using embedded programming
+   - Arduino IDE
+
+INTERNSHIPS
+1. Alfido Tech - Software Development Intern - November 2025
+   - Responsive web applications using HTML, CSS, JavaScript, React.js
+   - Testing, debugging and application-performance improvement
+2. Indian Servers - Full Stack Development Intern - April 2026 – June 2026
+   - Full-stack web applications using React.js, Node.js, Express.js, MongoDB
+   - REST APIs and frontend/backend integration
+
+CERTIFICATES
+- Data Structures - Great Learning
+- Python for Beginners - NIELIT
+- C Language - Merit Curve
+- Project Expo 2024
+- Introduction to Data Science - Simplilearn
+- IoT Bootcamp - NIELIT, December 2023
+
+ACHIEVEMENTS / ACTIVITIES
+- Participated in a Walk Against Hunger awareness walkathon.
+- Completed an IoT Bootcamp by NIELIT.
+- The supplied resume does not document a separate hackathon, so no hackathon claim was invented.
+
+COURSEWORK
+- No explicit "Relevant Coursework" list is provided in the supplied resume.
+- Therefore no coursework list was invented.
+
+PORTFOLIO/LIVE DEMO
+- No portfolio/live-demo URL is provided in the supplied resume.
+- No live-demo link was invented.
+
+FSD REQUIREMENT MAPPING
+[Covered] HTML5 semantic sections: Home, About, Education, Skills, Projects, Contact.
+[Covered] Headings, lists, links, contact form.
+[Covered] CSS selectors, box model, typography, colors, positioning.
+[Covered] Flexbox/Grid through Bootstrap and CSS.
+[Covered] Mobile-first responsive behavior and media queries.
+[Covered] Bootstrap navbar, grid, cards, buttons, form, alerts.
+[Covered] JavaScript ES6+ variables, functions/arrow functions, arrays/DOM-related logic.
+[Covered] Two+ interactive features: theme switching, skill filtering, back-to-top/mobile-nav behavior.
+[Covered] Event handling.
+[Covered] Client-side form validation.
+[Covered] Dynamic validation/success messages.
+[Covered] Responsive, accessible, functional structure.
+[Covered] GitHub-ready source files and README.
+[Covered] Report screenshot/implementation checklist support.
+[Not required] Live deployment is optional according to the supplied assignment.
+
+IMPORTANT FACTUAL LIMITATIONS
+- LinkedIn Profile PDF was not supplied, so Resume information is used for LinkedIn URL.
+- No verified portfolio/live demo URL was supplied.
+- No separate hackathon details were supplied.
+- No explicit relevant-coursework list was supplied.
+- No dates/credential URLs were supplied for most certificates, so they are not invented.
+- The assignment asks for an original portfolio; this implementation does not copy another student's personal content.
